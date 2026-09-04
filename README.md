@@ -4,56 +4,46 @@
 
 Interactive DNA, Gene & Trait Simulator
 
-A web-based educational simulator for exploring DNA, genes, chromosomes, and their relationship to observable traits through interactive scientific visualizations.
+«An educational simulation exploring DNA, genes, chromosomes, and their relationship to observable traits through interactive genetic visualizations.»
+
+🧬 Genetics · 🧪 DNA · 🌱 Traits
 
 ---
 
-✨ Features
+✦ Features
 
-* Interactive Genetics: Explore DNA, genes, chromosomes, and traits.
-* Scientific Visualization: Interactive representations of genetic concepts.
-* Educational Focus: Aligned with core Biology concepts and scientific accuracy.
-* Responsive Design: Optimized for desktop, tablet, and mobile devices.
+🧬 Interactive Genetics
+Explore the relationship between DNA, genes, chromosomes, and traits.
+
+🔬 Scientific Visualization
+Visualize genetic organization and the connection between genetic information and observable characteristics.
+
+📚 Educational Focus
+Designed around core Biology concepts with an emphasis on scientific accuracy.
+
+📱 Responsive Design
+Optimized for desktop, tablet, and mobile devices.
 
 ---
 
 🌱 Learning Objectives
 
-* Understand the relationship between DNA, genes, and chromosomes.
-* Explore how genes contribute to observable traits.
-* Visualize the organization and transmission of genetic information.
-* Strengthen conceptual understanding of genetics.
+- Understand the relationship between DNA, genes, and chromosomes.
+- Explore how genes contribute to observable traits.
+- Visualize the organization and transmission of genetic information.
+- Strengthen conceptual understanding of genetics.
 
 ---
 
-🚀 Build & Hosting
+⚙️ Technology
 
-* Repository: GitHub
-* Hosting: Vercel
-* Frontend: React, TypeScript, HTML & CSS
+React · TypeScript · HTML · CSS
 
----
-
-🛠️ Credits & Acknowledgments
-
-* Replit : Development environment and implementation support.
-* OpenAI : Scientific validation, debugging, visualization, and code refinement.
-* Anthropic (Claude) : Code review, debugging, and development support.
-* Vercel : Deployment and hosting.
-* GitHub : Version control and source repository.
-
----
-
-👤 Author
-
-Draven Ashcroft
-
-* M.Sc. Ag. Entomology
-* ASRB NET
-* DIPS Chain of Institutions
+Source: GitHub
+Hosting: Vercel
 
 ---
 
 📜 License
 
-GPL-3.0
+GNU General Public License v3.0 (GPL-3.0)
