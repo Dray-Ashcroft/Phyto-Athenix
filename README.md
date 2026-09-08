@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Banner.png" alt="Phyto Athenix Banner" width="100%">
+  <img src="assets/repo-banner.png" alt="Phyto Athenix — Interactive DNA, Gene & Trait Simulator" width="100%">
 </p>🧬 Phyto Athenix
 
 Interactive DNA, Gene & Trait Simulator
@@ -13,16 +13,20 @@ Interactive DNA, Gene & Trait Simulator
 ✦ Features
 
 🧬 Interactive Genetics
-Explore the relationship between DNA, genes, chromosomes, and traits.
+
+Explore the relationships between DNA, genes, chromosomes, and observable traits through interactive simulations.
 
 🔬 Scientific Visualization
-Visualize genetic organization and the connection between genetic information and observable characteristics.
+
+Visualize genetic organization and understand how genetic information contributes to observable characteristics.
 
 📚 Educational Focus
-Designed around core Biology concepts with an emphasis on scientific accuracy.
+
+Built around core Biology and Genetics concepts, with an emphasis on scientific accuracy and conceptual clarity.
 
 📱 Responsive Design
-Optimized for desktop, tablet, and mobile devices.
+
+Designed for seamless use across desktop, tablet, and mobile devices.
 
 ---
 
@@ -31,7 +35,7 @@ Optimized for desktop, tablet, and mobile devices.
 - Understand the relationship between DNA, genes, and chromosomes.
 - Explore how genes contribute to observable traits.
 - Visualize the organization and transmission of genetic information.
-- Strengthen conceptual understanding of genetics.
+- Strengthen conceptual understanding of fundamental genetics.
 
 ---
 
@@ -39,11 +43,11 @@ Optimized for desktop, tablet, and mobile devices.
 
 React · TypeScript · HTML · CSS
 
-Source: GitHub
+Source: GitHub & Codeberg
 Hosting: Vercel
 
 ---
 
 📜 License
 
-GNU General Public License v3.0 (GPL-3.0)
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0).
