@@ -1,53 +1,50 @@
 <p align="center">
   <img src="assets/repo-banner.png" alt="Phyto Athenix — Interactive DNA, Gene & Trait Simulator" width="100%">
-</p>🧬 Phyto Athenix
+</p>
 
-Interactive DNA, Gene & Trait Simulator
+# 🧬 Phyto Athenix
 
-«An educational simulation exploring DNA, genes, chromosomes, and their relationship to observable traits through interactive genetic visualizations.»
+### *Interactive DNA, Gene & Trait Simulator*
 
-🧬 Genetics · 🧪 DNA · 🌱 Traits
+> **Phyto Athenix** is an interactive visualization exploring **DNA, genes, chromosomes, and their relationship to observable traits**.
+>
+> 🧬 **Genetics** · 🧪 **DNA** · 🌱 **Traits**
 
----
-
-✦ Features
-
-🧬 Interactive Genetics
-
-Explore the relationships between DNA, genes, chromosomes, and observable traits through interactive simulations.
-
-🔬 Scientific Visualization
-
-Visualize genetic organization and understand how genetic information contributes to observable characteristics.
-
-📚 Educational Focus
-
-Built around core Biology and Genetics concepts, with an emphasis on scientific accuracy and conceptual clarity.
-
-📱 Responsive Design
-
-Designed for seamless use across desktop, tablet, and mobile devices.
+**🔬 [Explore the Simulation](YOUR-LINK-HERE)**
 
 ---
 
-🌱 Learning Objectives
+## ✦ Features
 
-- Understand the relationship between DNA, genes, and chromosomes.
-- Explore how genes contribute to observable traits.
-- Visualize the organization and transmission of genetic information.
-- Strengthen conceptual understanding of fundamental genetics.
+**🧬 Interactive Genetics**  
+Explore relationships between DNA, genes, chromosomes, and observable traits.
 
----
+**🔬 Scientific Visualization**  
+Visualize genetic organization and how genetic information contributes to observable characteristics.
 
-⚙️ Technology
+**📚 Educational Focus**  
+Explore fundamental genetics concepts with an emphasis on scientific accuracy and conceptual clarity.
 
-React · TypeScript · HTML · CSS
-
-Source: GitHub & Codeberg
-Hosting: Vercel
+**📱 Responsive Design**  
+Optimized for modern desktop, tablet, and mobile devices.
 
 ---
 
-📜 License
+## 🧬 Core Concepts
 
-This project is licensed under the GNU General Public License v3.0 (GPL-3.0).
+**DNA · Genes · Chromosomes · Genetic Information · Gene Expression · Observable Traits**
+
+---
+
+## ⚙️ Technology
+
+**React · TypeScript · HTML · CSS**
+
+**Repository:** GitHub & Codeberg  
+**Hosting:** Vercel
+
+---
+
+## 📜 License
+
+Distributed under the **GNU General Public License v3.0 (GPL-3.0)**.
