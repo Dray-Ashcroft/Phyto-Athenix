@@ -10,7 +10,8 @@
 >
 > 🧬 **Genetics** · 🧪 **DNA** · 🌱 **Traits**
 
-**🔬 [Explore the Simulation](YOUR-LINK-HERE)**
+**🔬 [Explore the Simulation](https://phyto-athenix-api-server-git-main-draven-s-six-paths.vercel.app/
+)**
 
 ---
 
